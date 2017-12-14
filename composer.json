@@ -1,5 +1,5 @@
 {
-  "name": "burtscherflorian/slimphp-REST-starter",
+  "name": "burtscherflorian/slimphp-rest-starter",
   "type": "project",
   "description": "Starter REST-Application in PHP with Slim 3 Framework",
   "keywords": ["slim","slimphp", "slim3", "php", "rest", "burtscherflorian"],
