@@ -49,5 +49,6 @@ To the end you have to generate the autoload files with this command:
 > composer dump-autoload -o
 ```
 
+
 Now you are ready for REST!
 ##### Happy Coding!
