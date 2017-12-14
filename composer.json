@@ -1,4 +1,18 @@
 {
+  "name": "burtscherflorian/slimphp-REST-starter",
+  "type": "project",
+  "description": "Starter REST-Application in PHP with Slim 3 Framework",
+  "keywords": ["slim","slimphp", "slim3", "php", "rest", "burtscherflorian"],
+  "homepage": "https://github.com/burtscherflorian/slimphp-REST-starter",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Burtscher Florian",
+      "email": "florianburtscher@hotmail.com",
+      "homepage": "https://github.com/burtscherflorian",
+      "role": "Developer"
+    }
+  ],
     "require": {
         "slim/slim": "^3.0"
     },
