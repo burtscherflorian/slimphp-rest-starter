@@ -35,7 +35,7 @@ Root to the directory where you want to install the project
 
 Install the starter project with following command:
    ```
-    > composer creae-project burtscherflorian/slimphp-REST-starter [your-application-name]
+   > composer creae-project "burtscherflorian/slimphp-rest-starter:*" [your-application-name]
    ```
    Replace [your-application-name] with the desired directory name for your new application.
 
